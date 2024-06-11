@@ -1,5 +1,1 @@
-# learning-kotlin-project
-# learning-kotlin-wproject
-# learning-kotlin-wproject
-# learning-kotlin-wproject
-# learning-kotlin-wproject
+Created a design for dyslexic kids.Main goal was to give kids simple skills.Implemented the ChatGPT API
